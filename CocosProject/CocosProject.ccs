@@ -1,0 +1,17 @@
+<Solution>
+  <PropertyGroup Name="CocosProject" Version="2.2.8.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="texture">
+          <Image Name="HelloWorld.png" />
+        </Folder>
+        <Folder Name="ui">
+          <Project Name="scene_loading.csd" Type="Scene" />
+          <Project Name="scene_menu.csd" Type="Scene" />
+          <Project Name="scene_game.csd" Type="Scene" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

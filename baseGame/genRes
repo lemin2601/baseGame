@@ -1,0 +1,2 @@
+#! /bin/bash
+../cocos-utils/bin/cocos genRes ./

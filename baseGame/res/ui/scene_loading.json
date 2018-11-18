@@ -1,0 +1,70 @@
+{
+  "ID": "a777ca2d-baaf-4d3f-80ba-1f647a28fa04",
+  "Version": "2.2.8.0",
+  "Name": "scene_loading",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 15,
+        "Children": [
+          {
+            "ImageFileData": {
+              "Type": "Default",
+              "Path": "Default/LoadingBarFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 292.3568,
+              "Y": 224.6334
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4568,
+              "Y": 0.234
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 192.3568,
+            "RightMargin": 247.6432,
+            "TopMargin": 728.3666,
+            "BottomMargin": 217.6334,
+            "Tag": 18,
+            "ActionTag": -17829922,
+            "Size": {
+              "X": 200.0,
+              "Y": 14.0
+            },
+            "Name": "loadingBar",
+            "ctype": "LoadingBarObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
