@@ -15,15 +15,15 @@
     "jsListOrder": [
         "src/config/Resource.js",
         "src/config/*.js",
-        "src/config/GameConfig.js",
-        "src/config/*.js",
         "src/*.js",
         "src/**/*.js"
     ],
     "jsList": [
         "src/config/Resource.js",
         "src/config/LoadResource.js",
-        "src/config/GameConfig.js",
-        "src/app.js"
+        "src/app.js",
+        "src/framework/BaseScene.js",
+        "src/framework/Log.js",
+        "src/framework/UploadResource.js"
     ]
 }

@@ -340,7 +340,7 @@ cc.game.addEventListener(cc.game.EVENT_RENDERER_INITED, function () {
          * //example
          * cc.textureCache.addImage("hello.png");
          */
-        _p.addImage = function (url, cb, target) {
+    _p.addImage = function (url, cb, target) {
 
             cc.assert(url, cc._LogInfos.Texture2D_addImage);
 

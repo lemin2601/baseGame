@@ -29,8 +29,8 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 320.3134,
-              "Y": 474.7335
+              "X": 480.4701,
+              "Y": 316.489
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -256,8 +256,8 @@
           }
         ],
         "Size": {
-          "X": 640.0,
-          "Y": 960.0
+          "X": 960.0,
+          "Y": 640.0
         },
         "Name": "Scene",
         "ctype": "SingleNodeObjectData"

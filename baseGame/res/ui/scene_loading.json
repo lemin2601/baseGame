@@ -15,6 +15,51 @@
         "Tag": 15,
         "Children": [
           {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "texture/HelloWorld.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 586.2529,
+              "Y": 444.4997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6107,
+              "Y": 0.6945
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 266.2529,
+            "RightMargin": 53.7471,
+            "TopMargin": -284.4997,
+            "BottomMargin": -35.5003,
+            "Tag": 32,
+            "ActionTag": -1232756967,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "spBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
             "ImageFileData": {
               "Type": "Default",
               "Path": "Default/LoadingBarFile.png",
@@ -54,11 +99,99 @@
             },
             "Name": "loadingBar",
             "ctype": "LoadingBarObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 281.5413,
+              "Y": 163.4552
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4399,
+              "Y": 0.1703
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 236.0413,
+            "RightMargin": 312.9587,
+            "TopMargin": 785.0447,
+            "BottomMargin": 151.9552,
+            "Tag": 31,
+            "ActionTag": 1359885246,
+            "Size": {
+              "X": 91.0,
+              "Y": 23.0
+            },
+            "Name": "txtPercent",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/ImageFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 204.6241,
+              "Y": 394.2076
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2132,
+              "Y": 0.6159
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 181.6241,
+            "RightMargin": 732.3759,
+            "TopMargin": 222.7924,
+            "BottomMargin": 371.2076,
+            "Tag": 33,
+            "ActionTag": -1721402365,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "imgBg",
+            "ctype": "ImageViewObjectData"
           }
         ],
         "Size": {
-          "X": 640.0,
-          "Y": 960.0
+          "X": 960.0,
+          "Y": 640.0
         },
         "Name": "Scene",
         "ctype": "SingleNodeObjectData"
