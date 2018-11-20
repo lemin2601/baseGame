@@ -3,8 +3,8 @@
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
-      <ObjectData Name="Scene" Tag="17" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="960.0000" />
+      <ObjectData Name="Scene" Visible="False" Tag="17" ctype="GameNodeObjectData">
+        <Size X="960.0000" Y="640.0000" />
         <Children>
           <AbstractNodeData Name="txtLog" ActionTag="-1481918207" Tag="29" IconVisible="False" LeftMargin="214.5932" RightMargin="334.4068" TopMargin="198.5494" BottomMargin="738.4506" FontSize="20" LabelText="Game in here" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
             <Size X="121.0000" Y="23.0000" />

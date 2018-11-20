@@ -27,5 +27,15 @@
         <LastRunType Value="Unknown" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="ui/scene_loading.csd" />
+          <FilePathData Path="ui/scene_menu.csd" />
+          <FilePathData Path="ui/scene_game.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="ui/scene_loading.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>

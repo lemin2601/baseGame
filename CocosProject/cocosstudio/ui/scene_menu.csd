@@ -3,13 +3,13 @@
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
-      <ObjectData Name="Scene" Tag="16" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="960.0000" />
+      <ObjectData Name="Scene" Visible="False" Tag="16" ctype="GameNodeObjectData">
+        <Size X="960.0000" Y="640.0000" />
         <Children>
           <AbstractNodeData Name="HelloWorld_1" ActionTag="-404265275" Tag="25" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="0.3134" RightMargin="-0.3134" TopMargin="5.2665" BottomMargin="-5.2665" ctype="SpriteObjectData">
             <Size X="640.0000" Y="960.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="320.3134" Y="474.7335" />
+            <Position X="480.4701" Y="316.4890" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5005" Y="0.4945" />
