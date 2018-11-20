@@ -1,0 +1,1 @@
+node ../cocos-utils/bin/cocos genRes ./
