@@ -35,7 +35,7 @@ function ResGen(dirCfgList, outputPath){
                 if(index < 0) continue;
                 var type = item.substring(index + 1).toLowerCase();
                 if(this.fileTypes.indexOf(type) < 0) continue;//如果不是所需类型，则跳过
-                _resArr.push(path.relative(pre, childPath));
+                _resArr.push(path.relative(pre, childPath).replace(new RegExp('\\' + path.sep, 'g'), '/'));
                 _resKeyArr.push(core4cc.getKeyName(item));
             }
         }
